@@ -1,0 +1,23 @@
+.container {
+   margin: 0 auto;
+   width: 600px;
+   height: 600px;
+   border:solid 2px;
+   background-color: cadetblue;
+}
+
+.casa {
+    width: 200px;
+    height: 100%;
+    border-right:solid 2px;
+    float: left;
+    cursor: pointer;
+}
+
+.linha {
+    height: 200px;
+    border-bottom:solid 2px;
+    text-align: center;
+    font-size: 150px;
+    color: #0b0a0a;
+}
